@@ -4,6 +4,7 @@
 
 
 #include "Eleven/Application.h"
+#include "Eleven/Log.h"
 
 // ------Entry Point----------------------
 #include "Eleven/EntryPoint.h"
